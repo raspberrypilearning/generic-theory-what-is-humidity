@@ -1,8 +1,3 @@
---- step ---
----
-title: What is humidity?
----
-
 - Humidity is the amount of water vapour in the air.
 - Water vapour is the gaseous state of water.
 
@@ -20,4 +15,3 @@ When you take a cold can or bottle out of the fridge you see water appearing on 
 
 A known amount of water vapour will result in different relative humidity readings, depending on the temperature of the air and the ability of the air to suspend it. So a low air temperature might give a high relative humidity reading because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that *could* be suspended has increased.
 
---- /step ---
