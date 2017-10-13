@@ -1,9 +1,8 @@
-- Humidity is the amount of water vapour in the air.
-- Water vapour is the gaseous state of water.
+Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
 
 The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air.
-- The lower the air temperature, the less water vapour can be suspended.
+- The higher the air temperature, the more water vapour can be suspended in the air
+- The lower the air temperature, the less water vapour can be suspended
 
     ![](images/condensation.jpg)
 
