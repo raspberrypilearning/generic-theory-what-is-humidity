@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Feuchtigkeit ist die Menge an Wasserdampf in der Luft. Wasserdampf ist der gasförmige Zustand von Wasser.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Die in der Luft schwebende Wasserdampfmenge ist temperaturabhängig:
+- Je höher die Lufttemperatur, desto mehr Wasserdampf kann in der Luft aufgenommen werden
+- Je niedriger die Lufttemperatur ist, desto weniger Wasserdampf kann aufgenommen werden
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Wenn du eine kalte Dose oder Flasche aus dem Kühlschrank nimmst, wird schnell Wasser darauf erscheinen. Dies geschieht, weil die kalte Flasche die Luft um sie herum abkühlt, wodurch die Luft weniger Wasserdampf aufnehmen kann. Dies führt dann dazu, dass der Wasserdampf, der nicht aufgenommen werden kann, wieder in flüssiges Wasser umgewandelt wird. Dies wird als *Kondensation* bezeichnet. Angesichts dieser Informationen müssen wir als nächstes verstehen, dass es zwei Möglichkeiten gibt, die Luftfeuchtigkeit zu messen:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Absolute** Feuchtigkeit ist die Gesamtmasse des Wasserdampfs, der in einem bestimmten Luftvolumen aufgenommen ist. Die Temperatur wird dabei nicht berücksichtigt. Diese Messung wird üblicherweise in Gramm Wasser pro Kubikmeter Luft ausgedrückt.
+- Die **Relative** Luftfeuchtigkeit wird jedoch als Prozentsatz ausgedrückt. Für jede gegebene Lufttemperatur gibt es eine maximale Menge an Wasserdampf, die die Luft aufnehmen kann. Die relative Luftfeuchtigkeit ist der Prozentsatz des tatsächlich vorhandenen Wasserdampfs im Vergleich zur maximal möglichen Menge.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+Dies bedeutet, dass eine bekannte Menge Wasserdampf je nach Lufttemperatur zu unterschiedlichen relativen Luftfeuchtigkeitswerten führt. Beispielsweise kann eine niedrige Lufttemperatur zu einem hohen relativen Luftfeuchtigkeitsmesswert führen, da dann die Luft nicht viel mehr Wasserdampf aufnehmen kann. Wenn du die Lufttemperatur erhöhst und die gleiche Menge Wasserdampf beibehältst, sinkt die relative Luftfeuchtigkeit, da die maximale Wasserdampfmenge, die aufgenommen werden **könnte**, zugenommen hat.
 
