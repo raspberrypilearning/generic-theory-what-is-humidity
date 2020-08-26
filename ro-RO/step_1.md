@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Umiditatea este cantitatea de vapori de apă din aer. Vaporii de apă sunt starea gazoasă a apei.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Cantitatea de vapori de apă suspendată în aer depinde de temperatură:
+- Cu cât temperatura aerului este mai mare, cu atât mai mulți vapori de apă pot fi suspendați în aer
+- Cu cât temperatura aerului este mai scăzută, cu atât mai puțini vapori de apă pot fi suspendați
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Când scoți o cutie sau o sticlă rece din frigider, vei vedea rapid apă apărând pe ea. Acest lucru se întâmplă deoarece sticla rece răcește aerul din jurul său, ceea ce face ca aerul să fie mai puțin capabil să suspende vaporii de apă. Apoi, acest lucru face ca vaporii de apă care nu pot fi suspendați să se transforme iarăși în apă lichidă. Aceasta se numește *condensare*. Așadar, având în vedere aceste informații, trebuie să înțelegem în continuare că există două modalități prin care putem măsura umiditatea:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- Umiditatea **absolută** este masa totală de vapori de apă suspendați într-un volum de aer dat. Temperatura nu este luată în considerare. Această măsurare este de obicei exprimată în grame de apă pe metru cub de aer.
+- Umiditatea **relativă** este în schimb exprimată în procente. Pentru orice temperatură dată a aerului, există o cantitate maximă de vapori de apă care pot fi suspendați în aer. Umiditatea relativă este procentul de vapori de apă prezenți de fapt, comparativ cu cantitatea maximă posibilă.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+Aceasta înseamnă că o cantitate cunoscută de vapori de apă va duce la valori diferite ale umidității relative în funcție de temperatura aerului. De exemplu, o temperatură scăzută a aerului ar putea duce la o citire a umidității relativ ridicată, deoarece aerul nu poate suspenda mai mulți vapori de apă. Creșterea temperaturii aerului și păstrarea aceleiași cantități de vapori de apă va determina scăderea umidității relative, deoarece cantitatea maximă de vapori de apă care **ar putea** fi suspendați a crescut.
 
