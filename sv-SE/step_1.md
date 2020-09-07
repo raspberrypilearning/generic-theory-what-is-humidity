@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Luftfuktighet är mängden vattenånga i luften. Vattenånga är vatten i gasform.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Det är luftens temperatur som avgör hur mycket vattenånga som upptas:
+- Ju högre lufttemperatur, desto mer vattenånga kan upptas i luften
+- Ju lägre lufttemperatur, desto mindre vattenånga kan upptas i luften
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+När du tar en kall burk eller en flaska ur kylen ser du snabbt att vatten bildas på den. Detta händer på grund av att den kalla flaskan kyler luften runt den, vilket gör att luften får svårare att uppta vattenånga. Detta orsakar sedan att vattenångan som inte kan upptas förvandlas till flytande vatten. Detta kallas *kondens*. Så med detta i bakhuvudet, finns det två möjligheter att mäta luftfuktighet:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Absolut** luftfuktighet är den totala massan av vattenånga upptagen i en given volym av luft. Ingen hänsyn tas till temperatur. Denna mätning uttrycks vanligtvis som gram vatten per kubikmeter luft.
+- **Relativ** luftfuktighet uttrycks emellertid i procent. För en given lufttemperatur finns det en maximal mängd vattenånga som kan upptas i luften. Relativ luftfuktighet är ett uttryck för hur många procent den aktuella mängden vattenånga utgör, i relation till vad den maximala möjliga mängden är.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+Detta betyder att en given mängd vattenånga kan resultera i olika relativa fuktighetsavläsningar beroende på lufttemperaturen. Till exempel kan en låg lufttemperatur leda till en hög relativ fuktighetsavläsning, eftersom luften inte kan uppta mycket mer vattenånga. När lufttemperaturen stiger och luften innehåller samma mängd vattenånga sjunker den relativa luftfuktigheten, eftersom den maximala mängden vattenånga som **kunde** upptas har ökat.
 
