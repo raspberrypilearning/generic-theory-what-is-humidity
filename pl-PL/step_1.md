@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Wilgotność to ilość pary wodnej w powietrzu. Para wodna to gazowy stan wody.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Ilość pary wodnej zawieszonej w powietrzu zależy od temperatury:
+- Im wyższa temperatura powietrza, tym więcej pary wodnej może zostać zawieszone w powietrzu
+- Im niższa temperatura powietrza, tym mniej pary wodnej może zostać zawieszone
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Gdy wyjmiesz zimną puszkę lub butelkę z lodówki, szybko zobaczysz, jak pojawia się na niej woda. Dzieje się tak, ponieważ zimna butelka chłodzi otaczające ją powietrze, przez co powietrze jest mniej zdolne do zawieszania pary wodnej. To powoduje, że para wodna, która nie może utrzymać się w powietrzu, zamienia się z powrotem w stan ciekły - wodę. Nazywa się to *kondensacją*. Biorąc więc pod uwagę te informacje, musimy następnie zrozumieć, że istnieją dwa sposoby pomiaru wilgotności:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Bezwzględna** wilgotność to całkowita masa pary wodnej zawieszonej w danej objętości powietrza. Temperatura nie jest brana pod uwagę. Ten pomiar jest zwykle wyrażany w gramach wody na metr sześcienny powietrza.
+- **Względna** wilgotność jest jednak wyrażana w procentach. Przy dowolnej temperaturze powietrza istnieje maksymalna ilość pary wodnej, która może zostać zawieszona w powietrzu. Wilgotność względna to procent rzeczywistej ilości pary wodnej w porównaniu z maksymalną możliwą ilością.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+Oznacza to, że znana ilość pary wodnej spowoduje różne odczyty wilgotności względnej w zależności od temperatury powietrza. Na przykład niska temperatura powietrza może prowadzić do wysokiego odczytu wilgotności względnej, ponieważ powietrze nie może zatrzymać znacznie większej ilości pary wodnej. Zwiększenie temperatury powietrza i utrzymanie tej samej ilości pary wodnej spowoduje spadek odczytu wilgotności względnej, ponieważ maksymalna ilość pary wodnej, która **może** być zawieszona wzrosła.
 
