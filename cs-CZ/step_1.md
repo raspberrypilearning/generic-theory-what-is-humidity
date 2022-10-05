@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Vlhkost je množství vodní páry ve vzduchu. Vodní pára je plynné skupenství vody.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Množství vodní páry ve vzduchu závisí na teplotě:
+- Čím vyšší je teplota vzduchu, tím více vodní páry může vzduch zadržet
+- Čím nižší je teplota vzduchu, tím méně vodní páry může vzduch zadržet
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Pokud si z ledničky vezmeš studenou lahev nebo plechovku, ihned uvidíš, jak se na ní objeví voda. To se děje z důvodu, že studená lahev ochlazuje vzduch v okolí a to znamená, že vzduch nedokáže vodní páru tolik zadržet. To pak způsobí, že se nezadržená vodní pára přemění zpátky na tekutou vodu. Tomuto jevu se říká *kondenzace (kapalnění)*. Vzhledem k těmto informacím musíme vědět, že existují dva způsoby, jak můžeme vlhkost změřit:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Absolutní** vlhkost vyjadřuje celkovou hmotnost vodní páry obsažené v jednotce objemu vzduchu. Teplota se nebere v úvahu. Toto měření se obvykle uvádí v počtu gramů vody na metr krychlový vzduchu.
+- **Relativní** vlhkost je však vyjádřena v procentech. Pro každou teplotu vzduchu existuje maximální množství vodní páry, které může vzduch zadržet. Relativní vlhkost je procento skutečného množství vodní páry ve vzduchu, jež se porovnává s maximálně možným množstvím.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+To znamená, že známé množství vodní páry bude mít za následek jiné hodnoty relativní vlhkosti v závislosti na teplotě vzduchu. Například nízká teplota vzduchu může vést k vysoké hodnotě relativní vlhkosti, jelikož vzduch nedokáže zadržet více vodní páry. Zvýšením teploty vzduchu a udržením stejného množství vodní páry povedete ke snížení hodnot relativní vlhkosti, protože maximální množství vodní páry, které **by mohlo** být zadrženo, se zvýšilo.
 
