@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Vochtigheid is de hoeveelheid waterdamp in de lucht. Waterdamp is de gasvormige toestand van water.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+De hoeveelheid waterdamp opgenomen in de lucht is afhankelijk van de temperatuur:
+- Hoe hoger de luchttemperatuur, hoe meer waterdamp in de lucht opgenomen kan worden
+- Hoe lager de luchttemperatuur, hoe minder waterdamp opgenomen kan worden
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Als je een koude kan of fles uit de koelkast neemt, zal je snel water erop zien verschijnen. Dit gebeurt omdat de koude fles de lucht errond afkoelt, ervoor zorgend dat de lucht minder in staat is om waterdamp op te nemen. Dit zorgt er dan voor dat de waterdamp die niet opgenomen kan worden terug omgezet wordt in vloeibaar water. Dit heet *condensatie*. Dus, nu we dit weten, moeten we vervolgens begrijpen dat er twee manieren zijn waarop we vochtigheid kunnen meten:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Absolute** vochtigheid is de totale hoeveelheid waterdamp opgenomen in een bepaalde hoeveelheid lucht. Er wordt geen rekening gehouden met temperatuur. Deze meting wordt meestal uitgedrukt in gram water per kubieke meter lucht.
+- **Relative** vochtigheid, daarentegen, wordt uitgedrukt in een percentage. Voor elke opgegeven luchttemperatuur is er een maximum hoeveelheid waterdamp dei in de lucht opgenomen kan worden. Relatieve vochtigheid is het percentage van werkelijk aanwezige waterdamp, vergeleken met de maximum mogelijke hoeveelheid.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+Dit betekent dat een gekende hoeveelheid waterdamp zal resulteren in verschillende relatieve vochtigheidsmetingen, afhankelijk van de luchttemperatuur. Bijvoorbeeld, een lage luchttemperatuur kan leiden tot een hoge relatieve vochtigheidsmeting, omdat de lucht niet zo veel waterdamp kan opnemen. De luchttemperatuur verhogen en dezelfde hoeveelheid waterdamp behouden zal ervoor zorgen dat de relatieve vochtigheidsmeting daalt, omdat de maximumhoeveelheid waterdamp die **could** opgenomen worden verhoogd werd.
 
