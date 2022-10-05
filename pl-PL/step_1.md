@@ -12,4 +12,3 @@ Gdy wyjmiesz zimną puszkę lub butelkę z lodówki, szybko zobaczysz, jak pojaw
 - **Względna** wilgotność jest jednak wyrażana w procentach. Przy dowolnej temperaturze powietrza istnieje maksymalna ilość pary wodnej, która może zostać zawieszona w powietrzu. Wilgotność względna to procent rzeczywistej ilości pary wodnej w porównaniu z maksymalną możliwą ilością.
 
 Oznacza to, że znana ilość pary wodnej spowoduje różne odczyty wilgotności względnej w zależności od temperatury powietrza. Na przykład niska temperatura powietrza może prowadzić do wysokiego odczytu wilgotności względnej, ponieważ powietrze nie może zatrzymać znacznie większej ilości pary wodnej. Zwiększenie temperatury powietrza i utrzymanie tej samej ilości pary wodnej spowoduje spadek odczytu wilgotności względnej, ponieważ maksymalna ilość pary wodnej, która **może** być zawieszona wzrosła.
-

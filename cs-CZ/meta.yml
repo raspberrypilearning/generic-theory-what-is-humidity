@@ -1,7 +1,7 @@
 ---
 title: Co je to vlhkost?
 hero_image: images/banner.png
-description: Dozveď se všechno o vlhkosti
+description: Zjisti o vlhkosti všechno
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -11,5 +11,4 @@ copyedit: false
 interests:
 technologies:
 steps:
-  - 
-    title: Co je to vlhkost?
+  - title: Co je to vlhkost?

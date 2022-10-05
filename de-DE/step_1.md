@@ -12,4 +12,3 @@ Wenn du eine kalte Dose oder Flasche aus dem Kühlschrank nimmst, wird schnell W
 - Die **Relative** Luftfeuchtigkeit wird jedoch als Prozentsatz ausgedrückt. Für jede gegebene Lufttemperatur gibt es eine maximale Menge an Wasserdampf, die die Luft aufnehmen kann. Die relative Luftfeuchtigkeit ist der Prozentsatz des tatsächlich vorhandenen Wasserdampfs im Vergleich zur maximal möglichen Menge.
 
 Dies bedeutet, dass eine bekannte Menge Wasserdampf je nach Lufttemperatur zu unterschiedlichen relativen Luftfeuchtigkeitswerten führt. Beispielsweise kann eine niedrige Lufttemperatur zu einem hohen relativen Luftfeuchtigkeitsmesswert führen, da dann die Luft nicht viel mehr Wasserdampf aufnehmen kann. Wenn du die Lufttemperatur erhöhst und die gleiche Menge Wasserdampf beibehältst, sinkt die relative Luftfeuchtigkeit, da die maximale Wasserdampfmenge, die aufgenommen werden **könnte**, zugenommen hat.
-

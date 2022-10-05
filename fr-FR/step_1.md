@@ -12,4 +12,3 @@ Lorsque tu sors une canette ou une bouteille froide du réfrigérateur, tu verra
 - L'humidité **relative**, cependant, est exprimée en pourcentage. Pour une température de l'air donnée, il y a une quantité maximale de vapeur d'eau qui peut être suspendue dans l'air. L'humidité relative est le pourcentage de vapeur d'eau réelle présente, par rapport à la quantité maximale possible.
 
 Cela signifie qu'une quantité connue de vapeur d'eau entraînera des lectures d'humidité relative différentes en fonction de la température de l'air. Par exemple, une température de l'air basse peut entraîner une lecture d'humidité relative élevée, car l'air ne peut pas suspendre beaucoup plus de vapeur d'eau. Augmenter la température de l'air et conserver la même quantité de vapeur d'eau entraînera une baisse de la lecture d'humidité relative, car la quantité maximale de vapeur d'eau qui **pourrait** être suspendue a augmenté.
-

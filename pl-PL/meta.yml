@@ -1,6 +1,6 @@
 ---
 title: Co to jest wilgotność?
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Dowiedz się wszystkiego o wilgotności
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
@@ -11,5 +11,4 @@ copyedit: false
 interests:
 technologies:
 steps:
-  - 
-    title: Co to jest wilgotność?
+  - title: Co to jest wilgotność?
