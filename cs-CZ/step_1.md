@@ -12,4 +12,3 @@ Pokud si z ledničky vezmeš studenou lahev nebo plechovku, ihned uvidíš, jak 
 - **Relativní** vlhkost je však vyjádřena v procentech. Pro každou teplotu vzduchu existuje maximální množství vodní páry, které může vzduch zadržet. Relativní vlhkost je procento skutečného množství vodní páry ve vzduchu, jež se porovnává s maximálně možným množstvím.
 
 To znamená, že známé množství vodní páry bude mít za následek jiné hodnoty relativní vlhkosti v závislosti na teplotě vzduchu. Například nízká teplota vzduchu může vést k vysoké hodnotě relativní vlhkosti, jelikož vzduch nedokáže zadržet více vodní páry. Zvýšením teploty vzduchu a udržením stejného množství vodní páry povedete ke snížení hodnot relativní vlhkosti, protože maximální množství vodní páry, které **by mohlo** být zadrženo, se zvýšilo.
-

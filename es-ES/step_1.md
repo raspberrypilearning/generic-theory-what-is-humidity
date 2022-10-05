@@ -12,4 +12,3 @@ Cuando sacas una lata o botella fría de la nevera, verás que rápidamente apar
 - La humedad **relativa**, sin embargo, se expresa como un porcentaje. Independientemente de la temperatura del aire, hay una cantidad máxima de vapor de agua que puede suspenderse en él. La humedad relativa es el porcentaje de vapor de agua realmente presente, comparado con la cantidad máxima posible.
 
 Esto significa que una cantidad conocida de vapor de agua dará como resultado diferentes lecturas de humedad relativa dependiendo de la temperatura del aire. Por ejemplo, una temperatura del aire baja puede llevar a una lectura de humedad relativa alta, porque el aire no puede suspender mucho más vapor de agua. Aumentando la temperatura del aire y manteniendo la misma cantidad de vapor de agua haremos que la lectura de la humedad relativa descienda, debido a que la cantidad máxima de vapor de agua que **puede** suspenderse ha aumentado.
-
