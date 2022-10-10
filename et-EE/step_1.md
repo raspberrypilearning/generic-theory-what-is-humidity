@@ -1,15 +1,15 @@
-Humidity is the amount of water vapour in the air. Water vapour is the gaseous state of water.
+Õhuniiskus on õhus olev veeauru sisaldus. Veeaur on vesi gaasilises olekus.
 
-The amount of water vapour suspended in the air is dependent on temperature:
-- The higher the air temperature, the more water vapour can be suspended in the air
-- The lower the air temperature, the less water vapour can be suspended
+Õhus oleva veeauru kogus sõltub temperatuurist:
+- Mida kõrgem on õhutemperatuur, seda rohkem saab õhus veeauru heljuda
+- Mida madalam on õhutemperatuur, seda vähem saab õhus veeauru heljuda
 
     ![](images/condensation.jpg)
 
-When you take a cold can or bottle out of the fridge, you will quickly see water appearing on it. This happens because the cold bottle is cooling the air around it, causing the air to be less capable of suspending water vapour. This then causes the water vapour that can't be suspended to turn back into liquid water. This is called *condensation*. So, given this information, we next need to understand that there are two ways in which we can measure humidity:
+Kui võtate külmkapist välja külma purgi või pudeli, näete kiiresti sellele ilmuvat vett. See juhtub, kuna külm pudel jahutab selle ümber olevat õhku, mistõttu õhk ei suuda veeauru enam nii hästi heljuma panna. Seetõttu ei saa veeauru enam vedelikuks muuta. Seda kutsutakse *kondensatsiooniks*. Seega, võttes arvesse ülaltoodud infot, peame järgmisena võtma teadmiseks, et niiskuse mõõtmiseks on kaks võimalust:
 
-- **Absolute** humidity is the total mass of water vapour suspended in a given volume of air. Temperature is not taken into consideration. This measurement is usually expressed as grams of water per cubic metre of air.
-- **Relative** humidity, however, is expressed as a percentage. For any given air temperature, there is a maximum amount of water vapour that can be suspended in the air. Relative humidity is the percentage of actual water vapour present, compared to the maximum possible amount.
+- **Absoluutne** niiskus on veeauru mass antud ruumalas õhus. Temperatuuri arvesse ei võeta. Seda mõõdetakse tavaliselt grammides kuupmeetri kohta õhus.
+- **Suhtelist** õhuniiskust aga väljendatakse tavaliselt protsentides. Mis tahes õhutemperatuuri puhul on maksimaalne veeauru kogus, mis saab õhus heljuda. Suhteline õhuniiskus on õhus tegelikult oleva veeauru ja maksimaalselt võimaliku ehk küllastava veeauru tiheduse suhe protsentides.
 
-This means that a known amount of water vapour will result in different relative humidity readings depending on the temperature of the air. For example, a low air temperature might lead to a high relative humidity reading, because the air can't suspend much more water vapour. Increasing the temperature of the air and keeping the same amount of water vapour will cause the relative humidity reading to drop, because the maximum amount of water vapour that **could** be suspended has increased.
+See tähendab, et teadaolev veeauru kogus põhjustab erinevaid suhtelise õhuniiskuse näite sõltuvalt õhutemperatuurist. Madal õhutemperatuur võib näiteks viia kõrge suhtelise õhuniiskuse näiduni, kuna õhus ei saa palju rohkem veeauru heljuda. Õhutemperatuuri kasv ja sama veeauru koguse hoidmine põhjustavad suhtelise õhuniiskuse näidu languse, kuna maksimaalne veeauru kogus, mis **saaks** heljuda, suureneb.
 
