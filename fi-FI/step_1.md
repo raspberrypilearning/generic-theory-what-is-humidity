@@ -12,4 +12,3 @@ Kun otat kylmän tölkin tai pullon jääkaapista, näet vettä nopeasti muodost
 - **Suhteellinen** ilmankosteus annetaan kuitenkin prosentteina. Mille tahansa ilmanlämpötilalle on enimmäismäärä vesihöyryä, joka voidaan sitoa ilmaan. Suhteellinen ilmankosteus on todellisen vesihöyryn prosenttiosuus verrattuna suurimpaan mahdolliseen määrään.
 
 Tämä tarkoittaa, että tunnettu vesihöyryn määrä johtaa erilaisiin suhteellisen ilmankosteuden lukemiin ilman lämpötilasta riippuen. Esimerkiksi alhainen ilman lämpötila voi johtaa korkeaan suhteellisen ilmankosteuden lukemaan, koska ilma ei pysty sitomaan paljon enemmän vesihöyryä. Ilmanlämpötilan nostaminen ja vesihöyryn määrän pitäminen samana aiheuttaa suhteellisen ilmankosteuden lukeman laskun, koska vesihöyryn enimmäismäärä, joka **voidaan** sitoa, on kasvanut.
-

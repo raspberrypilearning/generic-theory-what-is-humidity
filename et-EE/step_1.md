@@ -12,4 +12,3 @@ Kui võtate külmkapist välja külma purgi või pudeli, näete kiiresti sellele
 - **Suhtelist** õhuniiskust aga väljendatakse tavaliselt protsentides. Mis tahes õhutemperatuuri puhul on maksimaalne veeauru kogus, mis saab õhus heljuda. Suhteline õhuniiskus on õhus tegelikult oleva veeauru ja maksimaalselt võimaliku ehk küllastava veeauru tiheduse suhe protsentides.
 
 See tähendab, et teadaolev veeauru kogus põhjustab erinevaid suhtelise õhuniiskuse näite sõltuvalt õhutemperatuurist. Madal õhutemperatuur võib näiteks viia kõrge suhtelise õhuniiskuse näiduni, kuna õhus ei saa palju rohkem veeauru heljuda. Õhutemperatuuri kasv ja sama veeauru koguse hoidmine põhjustavad suhtelise õhuniiskuse näidu languse, kuna maksimaalne veeauru kogus, mis **saaks** heljuda, suureneb.
-

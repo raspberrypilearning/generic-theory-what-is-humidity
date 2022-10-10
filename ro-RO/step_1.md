@@ -12,4 +12,3 @@ Când scoți o cutie sau o sticlă rece din frigider, vei vedea rapid apă apăr
 - Umiditatea **relativă** este în schimb exprimată în procente. Pentru orice temperatură dată a aerului, există o cantitate maximă de vapori de apă care pot fi suspendați în aer. Umiditatea relativă este procentul de vapori de apă prezenți de fapt, comparativ cu cantitatea maximă posibilă.
 
 Aceasta înseamnă că o cantitate cunoscută de vapori de apă va duce la valori diferite ale umidității relative în funcție de temperatura aerului. De exemplu, o temperatură scăzută a aerului ar putea duce la o citire a umidității relativ ridicată, deoarece aerul nu poate suspenda mai mulți vapori de apă. Creșterea temperaturii aerului și păstrarea aceleiași cantități de vapori de apă va determina scăderea umidității relative, deoarece cantitatea maximă de vapori de apă care **ar putea** fi suspendați a crescut.
-
