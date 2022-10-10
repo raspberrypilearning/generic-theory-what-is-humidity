@@ -12,4 +12,3 @@ Ko vzamete hladilno pločevinko ali steklenico iz hladilnika, se bo na njej hitr
 - **Relativna vlažnost** pa se izrazi kot odstotek. Za katero koli temperaturo zraka obstaja največja količina vodne pare, ki je lahko v zraku. Relativna vlažnost je odstotek trenutno prisotne vodne pare v primerjavi z največjo možno količino.
 
 To pomeni, da bo enaka količina vodne pare povzročila različne odčitke relativne vlažnosti, odvisno od temperature zraka. Na primer, nizka temperatura zraka lahko povzroči visoko odčitavanje relativne vlage, saj zrak ne more suspendirati veliko več vodne pare. Povečevanje temperature zraka ter ohranjanje enake količine vodne pare bo povzročilo, da se relativna vlažnost spusti, ker se največja količina vodne pare, ki **bi** lahko bila v zraku, poveča.
-

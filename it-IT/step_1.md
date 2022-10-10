@@ -12,4 +12,3 @@ Quando prendi una lattina fredda o una bottiglia dal frigorifero, vedrai subito 
 - L'umidità **relativa**, invece, è espressa in percentuale. Per ogni data temperatura dell'aria, esiste una quantità massima di vapore acqueo che può essere sospeso nell'aria. L'umidità relativa è la percentuale di vapore acqueo attualmente presente, rispetto alla quantità massima possibile.
 
 Ciò significa che una quantità nota di vapore acqueo comporterà letture di umidità relativa diverse a seconda della temperatura dell'aria. Ad esempio, una bassa temperatura dell'aria potrebbe portare a un'alta lettura dell'umidità relativa, poiché l'aria non può sospendere molto vapore acqueo. Aumentando la temperatura dell'aria e mantenendo la stessa quantità di vapore acqueo, la lettura dell'umidità relativa diminuirà, poiché la quantità massima di vapore acqueo che **potrebbe** essere sospesa è aumentata.
-
